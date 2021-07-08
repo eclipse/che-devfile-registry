@@ -1,0 +1,6 @@
+---
+displayName: Kotlin for Quarkus 
+description: Kotlin for Quarkus with Java 11 and Maven 3.6.3
+tags: ["Kotlin", "Quarkus", "OpenJDK", "Maven", "Java"]
+icon: /images/kotlin.svg
+globalMemoryLimit: 2674Mi
